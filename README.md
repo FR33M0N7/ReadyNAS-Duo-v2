@@ -20,4 +20,5 @@ Steps to make the **RAIDar app** work on silicon Mac:
 **AUX INFO**
 
 Direct connection PC to NAS: https://readynas.sphardy.com/2010/09/how-to-direct-connect-to-your-readynas/
+
 Possible read/write performance issue: https://superuser.com/questions/1180475/readynas-duo-v2-has-slow-read-and-write-performance
