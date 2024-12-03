@@ -17,6 +17,7 @@ Steps to make the **RAIDar app** work on silicon Mac:
 2. Install <macOS x64 (10.7.3 and above)> (direct link: https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251401_0d8f12bc927a4e2c9f8568ca567db4ee from https://www.java.com/en/download/manual.jsp)
 3. DONE!
 
-AUX INFO:
+**AUX INFO**
+
 Direct connection PC to NAS: https://readynas.sphardy.com/2010/09/how-to-direct-connect-to-your-readynas/
 Possible read/write performance issue: https://superuser.com/questions/1180475/readynas-duo-v2-has-slow-read-and-write-performance
